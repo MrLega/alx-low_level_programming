@@ -3,7 +3,7 @@
   * _isupper - detect upper case alphabets
   *
   * @c: input character
-  * Return: (1) for true (00 false
+  * Return: (1) for true (0) false
   *
   */
 int _isupper(int c)
